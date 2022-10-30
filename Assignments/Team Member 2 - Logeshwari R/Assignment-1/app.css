@@ -1,0 +1,80 @@
+#main{
+position: relative;
+  max-width: 60%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   -webkit-box-shadow: 12px -6px 38px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 12px -6px 38px -8px rgba(0,0,0,0.75);
+box-shadow: 12px -6px 38px -8px rgba(0,0,0,0.75);
+}
+#second{
+    display: flex;
+    flex-direction: row;
+}
+.des{
+    text-align: left;
+    left: 0%;
+}
+
+#second div{
+   padding: 10px;
+}
+
+.head{
+    background-color: rgb(91, 132, 230);
+padding: 10px;
+    min-width: 100%;
+    display:flex;
+   flex-direction: row;
+    max-height: 200px;
+}
+
+.head img{
+max-height:150px ;
+    max-width: 150px;
+}
+
+
+.text{
+    margin: 5%;
+    margin-top: 20px;
+    color: aliceblue;
+}
+
+#educ {
+ position: relative;
+}
+
+#educ h3{
+    left: 0%;
+}
+#educ ul li     {
+    /* position: absolute; */
+ left: 0%;
+ text-align: left;
+} 
+.cert{
+    text-align: left;
+}
+.skill{
+    
+ position: relative;
+}
+.skill h3 ul table{
+    left: 0%;
+    text-align: left;
+}
+
+#bottom{
+    position: relative;
+  max-width: 40%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   -webkit-box-shadow: 12px -6px 38px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 12px -6px 38px -8px rgba(0,0,0,0.75);
+box-shadow: 12px -6px 38px -48px rgba(0,0,0,0.75);
+}
