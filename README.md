@@ -15,3 +15,9 @@ TEAM:
 
 4.Team member    : Keerthanaa A
 
+Tech Stack
+Frontend: Html+Css+JavaScript
+
+Backend: Python, Flask , Docker
+
+Database: IBM DB2
